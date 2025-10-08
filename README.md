@@ -9,7 +9,7 @@
 - 💼 I'm passionate about **Data Science**, **Machine Learning**, and **AI Systems**.  
 - 📊 Experienced in **Python, Power BI, Excel, Data Science, Machine Learning,Deep Learning,Computer Vision,Natural Language Processing and Data Analysis**.  
 - 🧩 Always exploring new technologies and improving model performance.  
-- 🏋️‍♂️ Fitness enthusiast — training always to build strength and discipline.  
+- 🏋️‍♂️ Fitness enthusiast — training  5 days per week to build strength and discipline.  
 
 ---
 
