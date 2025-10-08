@@ -1,15 +1,15 @@
 <!-- 🌌 Personal GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Mostafa Nasser</h1>
-<h3 align="center" style="color:#0a66c2;">🎯 Current Goal: Mastering Machine Learning and AI Engineering</h3>
+<h3 align="center" style="color:#0a66c2;">🎯 Current Goal: Mastering AI Engineering & Data Science & Machine Learning</h3>
 
 ---
 
 ### 🧠 About Me  
 - 💼 I'm passionate about **Data Science**, **Machine Learning**, and **AI Systems**.  
-- 📊 Experienced in **Python, Power BI, and Data Analysis**.  
+- 📊 Experienced in **Python, Power BI, Excel, Data Science, Machine Learning,Deep Learning,Computer Vision,Natural Language Processing and Data Analysis**.  
 - 🧩 Always exploring new technologies and improving model performance.  
-- 🏋️‍♂️ Fitness enthusiast — training 5 times a week to build strength and discipline.  
+- 🏋️‍♂️ Fitness enthusiast — training always to build strength and discipline.  
 
 ---
 
@@ -41,10 +41,12 @@
   <img src="https://img.shields.io/badge/Orange-FF7F0E?style=for-the-badge&logo=orange&logoColor=white" />
 </p>
 
-#### 🎯 Focus Areas  
-- Deep Learning 🧠  
+#### 🎯 Focus Areas
+- AI & Data Science 🤖
+- Machine Learning Models 🤖
+- Deep Learning 🧠
+- Data Analysis 🧠
 - Data Visualization 📊  
-- Machine Learning Models 🤖  
 
 ---
 
@@ -52,10 +54,15 @@
 
 | Project | Description | Tools |
 |----------|-------------|--------|
-| 🧮 **Sales Dashboard (Power BI)** | Interactive dashboard with KPIs, slicers, and visuals | Power BI, Excel |
 | 🤖 **Machine Learning Models** | Experiments with classification, regression, and clustering | Python, Scikit-learn |
 | 🔠 **Text Analytics (Orange)** | NLP preprocessing, stop words removal, and word clouds | Orange, Text Mining |
 | 🎮 **2048 Game AI** | Deep Q-Learning algorithm to play 2048 autonomously | TensorFlow, Reinforcement Learning |
+| 😍 **Sentiment Analysis** | RNN Deep Learning Network|NLP with NLTK & Spacy
+| 🐠🐢 **Animals Detection From Photos** | Classification of animals from photos with different angles & brightness|
+| ⏱️ **Sports Familiarity Throw Time** | Predicting sports familiarity throw time with Time Series Analysis |
+| 💬 **Speech Correction** | Speech grammer & spelling correction For NLP |
+| 🧮 **Superstore Sales Analysis (Excel)** | Interactive dashboard with KPIs, slicers, and visuals | Excel |
+| 🧮 **Sales Analysis (Power BI)** | Interactive dashboard with KPIs, slicers, and visuals | Power BI |
 
 ---
 
