@@ -113,7 +113,7 @@
 ## **Let's Contact 🤝**
 
 <p align="center">
-  <a href="malito:moustafa4businesses@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+  <a href="moustafa4businesses@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
   <a href="https://www.linkedin.com/in/mostafa-nasser-876442322/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
 </p>
 
